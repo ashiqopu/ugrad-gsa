@@ -1,0 +1,145 @@
+F:\Workspace\ASP\rabinSoft\rabinSoft\bin\Debug\rabinSoft.exe
+F:\Workspace\ASP\rabinSoft\rabinSoft\bin\Debug\rabinSoft.pdb
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.csprojResolveAssemblyReference.cache
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.Properties.Resources.resources
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.csproj.GenerateResource.Cache
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.exe
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.pdb
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormConfirm.resources
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormEntry.resources
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormStock.resources
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormLogin.resources
+D:\Project\rabinSoft\rabinSoft\obj\Debug\rabinSoft.exe
+D:\Project\rabinSoft\rabinSoft\obj\Debug\rabinSoft.pdb
+D:\Project\rabinSoft\rabinSoft\bin\Debug\rabinSoft.exe
+D:\Project\rabinSoft\rabinSoft\bin\Debug\rabinSoft.pdb
+D:\Project\rabinSoft\rabinSoft\obj\Debug\rabinSoft.csprojResolveAssemblyReference.cache
+D:\Project\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormEntry.resources
+D:\Project\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormConfirm.resources
+D:\Project\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormLogin.resources
+D:\Project\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormStock.resources
+D:\Project\rabinSoft\rabinSoft\obj\Debug\rabinSoft.Properties.Resources.resources
+D:\Project\rabinSoft\rabinSoft\obj\Debug\rabinSoft.csproj.GenerateResource.Cache
+F:\Workspace\ASP\opuSoft\rabinSoft\obj\Debug\rabinSoft.exe
+F:\Workspace\ASP\opuSoft\rabinSoft\obj\Debug\rabinSoft.pdb
+F:\Workspace\ASP\opuSoft\rabinSoft\bin\Debug\rabinSoft.exe
+F:\Workspace\ASP\opuSoft\rabinSoft\bin\Debug\rabinSoft.pdb
+F:\Workspace\ASP\opuSoft\rabinSoft\obj\Debug\rabinSoft.csprojResolveAssemblyReference.cache
+F:\Workspace\ASP\opuSoft\rabinSoft\obj\Debug\rabinSoft.FormEntry.resources
+F:\Workspace\ASP\opuSoft\rabinSoft\obj\Debug\rabinSoft.FormConfirm.resources
+F:\Workspace\ASP\opuSoft\rabinSoft\obj\Debug\rabinSoft.FormExtend.resources
+F:\Workspace\ASP\opuSoft\rabinSoft\obj\Debug\rabinSoft.FormLogin.resources
+F:\Workspace\ASP\opuSoft\rabinSoft\obj\Debug\rabinSoft.FormStock.resources
+F:\Workspace\ASP\opuSoft\rabinSoft\obj\Debug\rabinSoft.Properties.Resources.resources
+F:\Workspace\ASP\opuSoft\rabinSoft\obj\Debug\rabinSoft.csproj.GenerateResource.Cache
+I:\rabinSoft\rabinSoft\obj\Debug\rabinSoft.exe
+I:\rabinSoft\rabinSoft\obj\Debug\rabinSoft.pdb
+I:\rabinSoft\rabinSoft\bin\Debug\rabinSoft.exe
+I:\rabinSoft\rabinSoft\bin\Debug\rabinSoft.pdb
+I:\rabinSoft\rabinSoft\obj\Debug\rabinSoft.csprojResolveAssemblyReference.cache
+I:\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormEntry.resources
+I:\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormConfirm.resources
+I:\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormExtend.resources
+I:\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormLogin.resources
+I:\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormStock.resources
+I:\rabinSoft\rabinSoft\obj\Debug\rabinSoft.Properties.Resources.resources
+I:\rabinSoft\rabinSoft\obj\Debug\rabinSoft.csproj.GenerateResource.Cache
+C:\Users\ironman\Desktop\rabinSoft\rabinSoft\obj\Debug\rabinSoft.exe
+C:\Users\ironman\Desktop\rabinSoft\rabinSoft\obj\Debug\rabinSoft.pdb
+C:\Users\Devil Angel\Desktop\rabinSoft\rabinSoft\obj\Debug\rabinSoft.exe
+C:\Users\Devil Angel\Desktop\rabinSoft\rabinSoft\obj\Debug\rabinSoft.pdb
+C:\Users\Devil Angel\Desktop\rabinSoft\rabinSoft\bin\Debug\rabinSoft.exe
+C:\Users\Devil Angel\Desktop\rabinSoft\rabinSoft\bin\Debug\rabinSoft.pdb
+C:\Users\Devil Angel\Desktop\rabinSoft\rabinSoft\obj\Debug\rabinSoft.csprojResolveAssemblyReference.cache
+C:\Users\Devil Angel\Desktop\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormEntry.resources
+C:\Users\Devil Angel\Desktop\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormConfirm.resources
+C:\Users\Devil Angel\Desktop\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormLogin.resources
+C:\Users\Devil Angel\Desktop\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormStock.resources
+C:\Users\Devil Angel\Desktop\rabinSoft\rabinSoft\obj\Debug\rabinSoft.Properties.Resources.resources
+C:\Users\Devil Angel\Desktop\rabinSoft\rabinSoft\obj\Debug\rabinSoft.csproj.GenerateResource.Cache
+C:\Users\Devil Angel\Desktop\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormDue.resources
+D:\Project\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormDue.resources
+F:\Workspace\#Project\Store\13. 22-02-2014\rabinSoft\rabinSoft\obj\Debug\rabinSoft.exe
+F:\Workspace\#Project\Store\13. 22-02-2014\rabinSoft\rabinSoft\obj\Debug\rabinSoft.pdb
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormDue.resources
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormReview.resources
+F:\Workspace\ASP\rabinSoft\rabinSoft\bin\Debug\rabinSoft.exe.config
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormCost.resources
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormDueHistory.resources
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormStockHistory.resources
+F:\Workspace\ASP\rabinSoft\rabinSoft\obj\Debug\rabinSoft.FormCostHistory.resources
+D:\Project\ProjectSoft\rabinSoft\bin\Debug\rabinSoft.exe.config
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.exe
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.pdb
+D:\Project\ProjectSoft\rabinSoft\bin\Debug\rabinSoft.exe
+D:\Project\ProjectSoft\rabinSoft\bin\Debug\rabinSoft.pdb
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.csprojResolveAssemblyReference.cache
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormCost.resources
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormCostHistory.resources
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormDue.resources
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormDueHistory.resources
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormEntry.resources
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormConfirm.resources
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormStockHistory.resources
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormLogin.resources
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormReview.resources
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormStock.resources
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.Properties.Resources.resources
+D:\Project\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.csproj.GenerateResource.Cache
+F:\Workspace\ASP\ProjectSoft\rabinSoft\bin\Debug\rabinSoft.exe.config
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.exe
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.pdb
+F:\Workspace\ASP\ProjectSoft\rabinSoft\bin\Debug\rabinSoft.exe
+F:\Workspace\ASP\ProjectSoft\rabinSoft\bin\Debug\rabinSoft.pdb
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.csprojResolveAssemblyReference.cache
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormCost.resources
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormCostHistory.resources
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormDue.resources
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormDueHistory.resources
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormEntry.resources
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormConfirm.resources
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormStockHistory.resources
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormLogin.resources
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormReview.resources
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormStock.resources
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.Properties.Resources.resources
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.csproj.GenerateResource.Cache
+F:\Workspace\ASP\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormDisplay.resources
+J:\ProjectSoft\rabinSoft\bin\Debug\rabinSoft.exe.config
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.exe
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.pdb
+J:\ProjectSoft\rabinSoft\bin\Debug\rabinSoft.exe
+J:\ProjectSoft\rabinSoft\bin\Debug\rabinSoft.pdb
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.csprojResolveAssemblyReference.cache
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormCost.resources
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormCostHistory.resources
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormDisplay.resources
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormDue.resources
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormDueHistory.resources
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormEntry.resources
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormConfirm.resources
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormStockHistory.resources
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormLogin.resources
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormReview.resources
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormStock.resources
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.Properties.Resources.resources
+J:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.csproj.GenerateResource.Cache
+F:\ProjectSoft\rabinSoft\bin\Debug\rabinSoft.exe.config
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.exe
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.pdb
+F:\ProjectSoft\rabinSoft\bin\Debug\rabinSoft.exe
+F:\ProjectSoft\rabinSoft\bin\Debug\rabinSoft.pdb
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.csprojResolveAssemblyReference.cache
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormCost.resources
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormCostHistory.resources
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormDisplay.resources
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormDue.resources
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormDueHistory.resources
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormEntry.resources
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormConfirm.resources
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormStockHistory.resources
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormLogin.resources
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormReview.resources
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.FormStock.resources
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.Properties.Resources.resources
+F:\ProjectSoft\rabinSoft\obj\Debug\rabinSoft.csproj.GenerateResource.Cache
